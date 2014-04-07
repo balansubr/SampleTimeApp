@@ -7,10 +7,6 @@
         "success": "/clock/currenttime"
     },
     "env": {
-        "COOKIE_SECRET": {
-            "description": "This gets generated",
-            "generator": "secret"
-        },
         "FIRST_NAME": {
             "description": "So that we can be personal",
             "default": "Everybody"
