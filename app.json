@@ -10,6 +10,10 @@
         "FIRST_NAME": {
             "description": "So that we can be personal",
             "default": "Everybody"
+        },
+        "COOKIE_SECRET": {
+            "description": "This gets generated",
+            "generator": "secret"
         }
     }
 }
