@@ -6,9 +6,6 @@
         "website": "https://github.com/balansubr/SampleTimeApp",
         "success": "/clock/currenttime"
     },
-    "scripts": {
-
-    },
     "env": {
         "COOKIE_SECRET": {
             "description": "This gets generated",
