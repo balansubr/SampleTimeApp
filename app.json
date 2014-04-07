@@ -1,4 +1,6 @@
 {
-   
+    "name": "Personalized Clock",
+    "description": "A simple clock that greets you by name, everytime!",
+    "keywords": ["app.json", "clock", "config"]
 }
 
