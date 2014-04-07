@@ -14,6 +14,9 @@
         "FIRST_NAME": {
             "description": "So that we can be personal",
             "default": "Everybody"
+        },
+        "LAST_NAME": {
+            "description": "This is optional",
         }
     }
 }
