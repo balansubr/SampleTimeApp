@@ -1,0 +1,30 @@
+{
+    "name": "Personalized Clock",
+    "description": "A simple clock that greets you by name, everytime!",
+    "keywords": ["app.json", "clock", "config"],
+    "urls": {
+        "website": "https://github.com/balansubr/SampleTimeApp",
+        "success": "/clock/currenttime"
+    },
+    "scripts": {
+
+    },
+    "env": {
+        "COOKIE_SECRET": {
+            "description": "This gets generated",
+            "generator": "secret"
+        },
+        "FIRST_NAME": {
+            "description": "So that we can be personal",
+            "default": "World"
+        },
+        "LAST_NAME": {
+            "description": "This is optional",
+        }
+    },
+    "addons": [
+        "postgresql",
+        "newrelic"
+    ]
+}
+

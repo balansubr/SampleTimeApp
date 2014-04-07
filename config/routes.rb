@@ -1,5 +1,6 @@
 SampleTimeApp::Application.routes.draw do
-  root 'clock#index'
+  get 'clock/currenttime'
+  # get 'clock#index'
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
