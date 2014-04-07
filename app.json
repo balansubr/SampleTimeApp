@@ -21,10 +21,6 @@
         "LAST_NAME": {
             "description": "This is optional",
         }
-    },
-    "addons": [
-        "postgresql",
-        "newrelic"
-    ]
+    }
 }
 
