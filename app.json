@@ -11,6 +11,13 @@
             "description": "So that we can be personal",
             "default": "Everybody"
         },
+        "LAST_NAME": {
+            "description": "This is optional"
+        },
+        "REFERRER": {
+            "description": "Who sent you",
+            "default": "Unknown"
+        },
         "COOKIE_SECRET": {
             "description": "This gets generated",
             "generator": "secret"
