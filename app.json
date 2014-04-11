@@ -27,6 +27,7 @@
     	"postdeploy":"rake db:migrate"
     },
     "addons": [
+    	"postgresql"
     ]  
 }
 
