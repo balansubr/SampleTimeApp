@@ -9,7 +9,7 @@
     "env": {
         "FIRST_NAME": {
             "description": "So that we can be personal",
-            "default": "John"
+            "default": "John",
             "required": true
         },
         "LAST_NAME": {
