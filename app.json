@@ -14,8 +14,8 @@
         "LAST_NAME": {
             "description": "This is optional"
         },
-        "REFERRER": {
-            "description": "Who sent you",
+        "INSTALLED_BY": {
+            "description": "Who installed this for you",
             "default": "Unknown"
         },
         "COOKIE_SECRET": {
