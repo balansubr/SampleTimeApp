@@ -23,9 +23,6 @@
             "generator": "secret"
         }
     },
-    "scripts": {
-    	"postdeploy":"rake db:migrate"
-    },
     "addons": [
     	"postgresql"
     ]  
