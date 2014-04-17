@@ -5,9 +5,7 @@ This is a simple app to demonstrate the use of app.json. The app simply shows th
 To get started with the app: {Deploy on Heroku}[https://app-assembly.herokuapp.com/?src=https%3A%2F%2Fgithub.com%2Fbalansubr%2FSampleTimeApp%2Ftarball%2Fmaster%2F&json=clock_app.json]
 
 To edit the code on Nitrous.io: 
-=begin html
 <a href="https://www.nitrous.io/hack_button?source=embed&runtime=rails&repo=balansubr%2FSampleTimeApp&file_to_open=config%2Froutes.db" style="border:0;text-decoration:none"><img src="https://d3o0mnbgv6k92a.cloudfront.net/assets/hack-s-v1-7475db0cf93fe5d1e29420c928ebc614.png" alt="Hack balansubr/SampleTimeApp on Nitrous.IO" /></a>]
-=end
 
 Some details:
 
