@@ -2,8 +2,9 @@
 
 This is a simple app to demonstrate the use of app.json. The app simply shows the time prefaced with a greeting. The greeting is personalized using configuration variables defined in app.json. The app.json also specifies which addons should be provisioned and what post-deployment scripts should be run.
 
-To go through the flow of deploying this app programatically on Heroku, {Click here}[https://app-assembly.herokuapp.com/?src=https%3A%2F%2Fgithub.com%2Fbalansubr%2FSampleTimeApp%2Ftarball%2Fmaster%2F&json=clock_app.json]
+To get started with the app: {Deploy on Heroku}[https://app-assembly.herokuapp.com/?src=https%3A%2F%2Fgithub.com%2Fbalansubr%2FSampleTimeApp%2Ftarball%2Fmaster%2F&json=clock_app.json]
+
 
 Some details:
 
-The link above is https://app-assembly.herokuapp.com/?src=https%3A%2F%2Fgithub.com%2Fbalansubr%2FSampleTimeApp%2Ftarball%2Fmaster%2F&json=clock_app.json. app-assembly is a barebones, demo app that enables the interactive deployment of an app.json enabled app. For more details, look {here}[https://github.com/balansubr/app-assembly]
+The link above is https://app-assembly.herokuapp.com/?src=https%3A%2F%2Fgithub.com%2Fbalansubr%2FSampleTimeApp%2Ftarball%2Fmaster%2F&json=clock_app.json. The link demonstrates programattic deployments to Heroku through an interactive process. app-assembly is a barebones, demo app that enables the interactive deployment of an app.json enabled app. For more details, look {here}[https://github.com/balansubr/app-assembly]
